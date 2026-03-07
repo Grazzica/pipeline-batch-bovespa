@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# AWS
+.aws/
+
+# Dados locais
+check/
+check_refined/
+*.parquet
+
+# OS
+.DS_Store
+Thumbs.db
+lambda_function.zip
