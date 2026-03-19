@@ -251,3 +251,29 @@ awscli>=1.44.0
 | Média móvel como cálculo de data | Indicador técnico amplamente utilizado; demonstra valor analítico real |
 | DynamicFrame para escrita | Compatibilidade nativa com Glue, evita NullPointerException do saveAsTable |
 | Date como string no Parquet | Evita incompatibilidade de Timestamp entre pandas/pyarrow e Spark |
+
+## Deploy
+
+- Vídeo apresentação disponível em: 
+
+## Autores
+
+**Adriano Cabrera**
+
+- LinkedIn: https://www.linkedin.com/in/adriano-cabrera-b7b680a7/
+- GitHub: https://github.com/cabrpin
+
+**Caio Grazzini**
+
+- LinkedIn: https://www.linkedin.com/in/caiograzzini/
+- GitHub: https://github.com/Grazzica/
+
+**Fabrício Batista Dias**
+
+- LinkedIn: https://www.linkedin.com/in/fabriciobdias/
+- GitHub: https://github.com/DiasFabricio
+
+---
+
+Desenvolvido como parte do Tech Challenge — Pós-Graduação em Machine Learning Engineering — FIAP 2024/2025
+```

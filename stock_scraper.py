@@ -6,7 +6,7 @@ from io import BytesIO
 client = boto3.client('s3')
 tickerStrings = ["PETR4.SA", "BOVA11.SA", "VALE3.SA", "ITSA3.SA", "IVVB11.SA"]
 
-df= yf.download(tickerStrings, group_by='Ticker', period= '1y')
+df= yf.download(tickerStrings, group_by='Ticker', period= '5d')
 
 df = df.stack(level=0).rename_axis(['Date', 'Ticker']).reset_index()
 
