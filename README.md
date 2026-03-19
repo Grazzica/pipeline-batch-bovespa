@@ -2,12 +2,6 @@
 
 ## Pós-Graduação em Machine Learning Engineering -- FIAP
 
-**Autor:** Caio Grazzini  
-**Data:** Março 2026  
-**Fase:** 2 -- Machine Learning Avançado
-
----
-
 ## Objetivo
 
 Pipeline de dados completo para extração, processamento e análise de dados de ações da B3 (Bolsa de Valores do Brasil), utilizando serviços AWS: S3, Lambda, Glue e Athena.
