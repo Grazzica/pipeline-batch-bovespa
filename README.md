@@ -248,7 +248,7 @@ awscli>=1.44.0
 
 ## Deploy
 
-- Vídeo apresentação disponível em: 
+- Vídeo apresentação disponível em: https://youtu.be/gdibkgRmzKs
 
 ## Autores
 
